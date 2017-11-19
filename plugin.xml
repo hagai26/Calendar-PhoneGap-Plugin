@@ -78,6 +78,5 @@
                  target-dir="src/nl/xservices/plugins/accessor"/>
     <source-file src="src/android/nl/xservices/plugins/accessor/LegacyCalendarAccessor.java"
                  target-dir="src/nl/xservices/plugins/accessor"/>
-    <dependency id="cordova-plugin-compat" version="^1.0.0" />
   </platform>
 </plugin>
